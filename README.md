@@ -12,21 +12,35 @@ application.
 
 # Images
 
+**Home page**
+
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/home-page.png" width="500">
+
+**Mongo-DB**
 
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/mongo-users.png" width="500">
 
+**Registration Form**
+
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/registration-form.png" width="500">
+
+**Plan Generation**
 
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/generate-plan.png" width="500">
 
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/generate-plan-continue.png" width="500">
 
+**Diet Plan**
+
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/diet-plan.png" width="500">
 
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/diet-plan-continue.png" width="500">
 
+**BMI Calculator**
+
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/BMI-cal.png" width="500">
+
+**Calorie Calculator**
 
 <img src="https://raw.githubusercontent.com/chandrika1645/Fit-o-crazy/main/assets/screenshots/calorie-cal.png" width="500">
 
