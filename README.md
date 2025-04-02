@@ -170,6 +170,3 @@ README.md: Project documentation
 ```
 
 ---
-
-
-
